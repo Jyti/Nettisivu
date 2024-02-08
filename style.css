@@ -1,0 +1,63 @@
+body {
+  background-color: #161616;
+}
+h1 {
+  color: #F2EFDE;
+  text-align: center;
+  font-family: verdana;
+  font-size: 300%;
+}
+#text1 {
+  color: #F2EFDE;
+  padding: 30px;
+  margin: 50px;
+  font-family: courier;
+  font-size: 160%;
+  text-align: center;
+  border: 5px solid #F2EFDE;
+}
+.center {
+  margin: auto;
+  width: 90%;
+  border: 5px solid #F2EFDE;
+  margin-top: 5vh;
+}
+
+.aika{
+  color: #F2EFDE;
+  font-size: 160%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: courier;
+  font-size: 160%;
+  text-align: center;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 160%;
+  font-family: courier;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #F2EFDE;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #F2EFDE;
+  color: black;
+}
